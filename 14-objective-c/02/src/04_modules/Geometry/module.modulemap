@@ -1,0 +1,6 @@
+// [modulemap]
+module Geometry {
+    umbrella header "Geometry.h"
+    export *
+}
+// [/modulemap]
