@@ -1,0 +1,8 @@
+[package]
+name = "cargo_demo"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+# внешний crate подключается одной строкой, например:
+# rand = "0.8"
